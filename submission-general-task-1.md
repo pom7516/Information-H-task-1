@@ -1,9 +1,8 @@
-# Story Node Automatic Installer
+# Story Node Installer
 
 ## How to Use
 
-1. Download the script from [repository link](https://github.com/pom7516/story-node-setup/blob/master/install-story-node.sh).
-2. Run the following command to install the Story node:
+Run the following command to install the Story node:
    ```bash
    # Update and install Go
 sudo apt update && sudo apt upgrade -y && sudo rm -rf /usr/local/go && \
